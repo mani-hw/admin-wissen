@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwissen_dashboard=self.webpackChunkwissen_dashboard||[]).push([[738],{7738:function(e,n,s){s.r(n);var a=s(2791),r=s(4713),t=s(4015),i=s(184),u=(0,r.Z)((0,a.lazy)((function(){return Promise.all([s.e(717),s.e(40),s.e(792)]).then(s.bind(s,3792))})));n.default=function(){return(0,i.jsx)(t.Z,{title:"Create User",navigation:"/active-users",children:(0,i.jsx)(u,{})})}}}]);
+//# sourceMappingURL=738.2a394941.chunk.js.map
